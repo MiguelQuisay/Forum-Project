@@ -1,4 +1,4 @@
-#A Fully-featured Forum Project Using Bootstrap, JQUERY, PHP, MYSQL#
+# A Fully-featured Forum Project Using Bootstrap, JQUERY, PHP, MYSQL
 
 **FEATURES**
 - USER ACCOUNTS LOGIN & REGISTERING
